@@ -1,10 +1,14 @@
 # Eskim Views Counter
 
-**Version:** 2.0.0
-**Author:** [eskimpl](https://eskim.pl)
-**Donate:** [Buy me a coffee ☕](https://buymeacoffee.com/eskim)
+A lightweight and extensible WordPress plugin that tracks post/page views.  
+Includes bot filtering, IP-based throttling, transient caching, and a flexible shortcode for display.  
+Perfect for lightweight analytics or engagement indicators.
 
-Counts post and page views with caching, bot filtering, IP-based throttling, and an easy-to-use shortcode.
+🔖 Version: 2.0  
+📚 Version 1.0 (article in Polish): [Licznik wyświetleń strony w WordPress](https://eskim.pl/licznik-wyswietlen-strony-w-wordpress/)  
+🌍 Author's website: https://eskim.pl  
+☕ Donate: https://buymeacoffee.com/eskim  
+📜 License: GNU GPL v2.0
 
 ---
 
